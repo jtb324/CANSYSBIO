@@ -1,4 +1,5 @@
 # Statistical Data Analysis in Python
+These notebooks were modified by Sarah Maddox Groves on March 23, 2019.
 
 Introductory Tutorial, SciPy 2013, 25 June 2013
 
